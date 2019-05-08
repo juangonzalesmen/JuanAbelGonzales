@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>LP1_Juan-Hola-PruebaJuan Project</title>
+        <title>LP1_esMendoddfdgdfgdgsdfgdfsgsdfgsdfgsdggdfgsdfsfsdfsdfvsdfsdfza-Nuevo Project</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/png" href="imagenes/logo.png" />
@@ -15,11 +15,9 @@
                     <nav>
                         <ul class="manu">
                             <li><a class="active" href="index.html">Home</a></li>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Services</a></li>
                             <li><a href="#">Juan</a></li>
-                            <li><a href="#">Pullgithub</a></li>
+                            <li><a href="#">Juan</a></li>
+                            <li><a href="#">Services</a></li>
                         </ul>
                     </nav>
                 </header>
