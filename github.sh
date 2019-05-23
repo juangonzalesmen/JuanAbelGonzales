@@ -1,3 +1,3 @@
 git add -A
-git commit -am "gitpush desde la nube"
+git commit -am "desde la lan"
 git push
